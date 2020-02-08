@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{background-color:black;
+overflow:hidden;
+padding:0;
+	background-size:contain}
+ul{left:0px;
+position:relative;
+padding:0;}
+li{list-style-type:none;
+float:left;
+width:70px;
+height:30px;
+text-align: center;
+margin:0;
+padding-left: 0px;
+}
+a{text-decoration: none;
+font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+background:black;
+	color:white;}
+main{background-color:rgba(47,93,199,1.00);
+margin-bottom: 0}
+.slider-img{margin:10px;
+width:97%;
+height:90%}
+.p-text{column-count:4;
+column-rule:double;
+text-align: justify;
+font-size: 12px;
+margin-bottom: 0}
+.image{height:15%;
+width:15%;
+margin:10px;
+float:left}
+footer{background-color:black;
+color:white;
+text-align:center;
+padding-bottom:10px;
+margin:0}
